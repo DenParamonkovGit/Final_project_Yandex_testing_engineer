@@ -1,4 +1,6 @@
 # Денис Парамонков, 21-я когорта — Финальный проект. Инженер по тестированию плюс
+# Ссылка на скрин с запуском теста: https://photos.app.goo.gl/849p1H4pvXXUqwcg7
+# Ссылка на скрин с заданиями по БД: https://photos.app.goo.gl/mt6Y4J61kb4F3GgWA
 import pytest
 import requests
 import sender_stand_request
